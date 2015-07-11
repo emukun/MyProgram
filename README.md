@@ -1,4 +1,5 @@
 # MyProgram
 
 ##メンバー
+##メンバー
 *testmember
